@@ -5,7 +5,7 @@ classes:
  - slide
 data:
   x: 3000
-  y: 2400
+  y: 4000
 
 title: "Twitter"
 ---
